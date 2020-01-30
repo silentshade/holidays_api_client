@@ -28,7 +28,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency "httparty", "~> 0.15.6"
-  spec.add_dependency "i18n", "~> 1.7.0"
+  spec.add_dependency "i18n", "~> 0.9.5"
   spec.add_development_dependency "bundler", "~> 2.0"
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency "webmock", "~> 3.8.0"
